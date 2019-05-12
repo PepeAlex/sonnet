@@ -1,2 +1,2 @@
 # sonnet
-Academic activite
+Academic activity
